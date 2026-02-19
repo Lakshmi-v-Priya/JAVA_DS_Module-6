@@ -42,8 +42,6 @@ public class CountDigits {
         System.out.println("Number of digits: " + count);
     }
 }
-*/
-
 ```
 
 ## Output:
