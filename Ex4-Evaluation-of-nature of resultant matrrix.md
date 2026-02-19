@@ -4,18 +4,18 @@
 To write a java function to evaluate weather the given Matrix A has all odd numbers and Matrix B has all even numbers of the same dimension and find the nature of resultant matrrix.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Read matrix dimensions Input the number of rows r and columns c.
+2. Read elements of Matrix A Fill the 2D array A[r][c] by reading integers row-wise.
+3. Read elements of Matrix B Fill the 2D array B[r][c] similarly by reading integers row-wise.
+4. Add corresponding elements of both matrices For each position (i, j), compute A[i][j] + B[i][j].
+5. Print the resulting matrix Output each sum in matrix form, one row per line.   
 
 ## Program:
 ```
 /*
 Program to ind the nature of resultant matrrix.
-Developed by: 
-RegisterNumber:  
+Developed by: Lakshmi Priya .V
+RegisterNumber:  212223220049
 */
 ```
 ```
